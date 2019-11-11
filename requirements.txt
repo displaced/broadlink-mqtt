@@ -1,2 +1,2 @@
 paho-mqtt
-broadlink
+git+git://github.com/barnybug/python-broadlink@add_bgelectrical_sockets
